@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Task Manager</string>
+    <string name="task_thing">مدیریت وظایف</string>
+    <string name="trued">انجام شده</string>
+    <string name="falsed">انجام نشده</string>
+    <string name="trued_thing">لیست کارها: </string>
+    <string name="todo">todo</string>
+    <string name="task_title">عنوان وظیفه</string>
+    <string name="save">ذخیره کردن</string>
+    <string name="cancel">منصرف شدم</string>
+    <string name="write_something">write something</string>
+    <string name="write">یه چیزی بنویس</string>
+</resources>
